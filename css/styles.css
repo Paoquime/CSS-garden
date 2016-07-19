@@ -1,0 +1,117 @@
+body {
+ font-family:sans-serif;
+ color:#888;
+ background-color: #8BE8ED;																						
+ background-image: url(../img/fondo2.jpeg);
+ font-size:small;
+ margin-top:100px;
+ text-align:center;
+}
+
+.intro h1,h2 {
+	position:relative;
+	background-color:white;
+	font font-weight: bold;
+	text-align: center;
+	}
+
+h3 {
+  color: #FFFFFF;
+  font-weight: normal;
+  font-family: sans-serif;
+  background-color: #000000;
+  text-align: center;
+}
+
+p {
+	color: #000000;
+}
+
+.preamble, .explanation, .participation, .benefits, .requirements {
+border-bottom:0px dotted #999999;
+position:relative;
+width:350px;
+margin:0 0 0 60px;
+}
+
+.requirements {
+margin-bottom:35px;
+}
+
+.preamble h3 {
+background-image: url(title01.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+width:286px;
+height:64px;
+margin-bottom:-5px;
+}
+
+.explanation h3 {
+background-image: url(title02.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+width:286px;
+height:66px;
+margin-bottom:-5px;
+}
+
+.participation h3 {
+background-image: url(title03.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+width:286px;
+height:66px;
+margin-bottom:-5px;
+}
+
+.benefits h3 {
+background-image: url(title04.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+width:286px;
+height:66px;
+margin-bottom:-5px;
+}
+
+.requirements h3 {
+background-image: url(title05.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+width:286px;
+height:66px;
+margin-bottom:-5px;
+}
+
+.sidebar ul {margin:0px;padding:0px;}
+.sidebar li {list-style-type:none;display:block;padding:1px;margin:0px;}
+.sidebar li a {color:#000000;}
+.sidebar li a:hover {color:#D0701A;}
+.design-selection a {display:block;}
+.design-selection li a.designer-name {display: inline;}
+.design-selection li {margin-bottom:5px;}
+
+footer{
+	text-align: left;
+	padding:0 0 0 0;
+	margin:0 0 0 60px;
+}
+
+footer a, footer a:visited {
+	padding: 5px;
+	border: 1px solid #eeeeee;
+	background-color: #fff;
+	color: #666666;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+footer a:hover {
+	padding: 5px;
+	border: 1px solid #eeeeee;
+	background-color: #eeeeee;
+	color: #999999;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-decoration: none;
+}
