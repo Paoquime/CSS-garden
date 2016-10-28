@@ -10,5 +10,5 @@ maquetado con HTML, de una web de diseño llamada CSS Zen Garden.**
 3. Modifique el título, subtitulos y párrafos, tambien les cambie el color.
 4. Alinee los enlaces.
 
- * Link gh-pages: <http://paoquime.github.io/CSS-garden/>
+* Link gh-pages: <http://paoquime.github.io/CSS-garden/>
 
